@@ -1,7 +1,7 @@
 # portfolio-site-
 "My first repository thread post, about my personal portfolio page!"
 
-# Hello, my name is Kyle Stelter:
+# Hello, my name is Kyle Stelter
 
 * A Tech-savvy, detail-oriented, and passionate person about using modern tools to solve real-world problems. I’m building my digital presence while exploring opportunities in tech, AI innovation, and personal development.
 
